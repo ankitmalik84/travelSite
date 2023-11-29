@@ -40,7 +40,7 @@ const switchToSignIn = document.getElementById("signIn-switch");
 const registerDiv = document.querySelector(".register-div");
 const loginDiv = document.querySelector(".login-div");
 const logout = document.getElementById("logout");
-const todoDiv = document.getElementById("todo-div");
+const todoDiv = document.getElementById("site-div");
 
 // console.log(todoDiv)
 
